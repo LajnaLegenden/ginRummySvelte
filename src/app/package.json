@@ -14,6 +14,7 @@
     "@sveltejs/kit": "next",
     "@types/lodash": "^4.14.171",
     "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "@sveltejs/adapter-vercel": "next",
     "@typescript-eslint/parser": "^4.19.0",
     "eslint": "^7.22.0",
     "eslint-config-prettier": "^8.1.0",
